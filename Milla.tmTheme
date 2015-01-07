@@ -1,4 +1,4 @@
-<!-- Milla Theme v0.1.0
+<!-- Milla Theme v0.2.1
 #
 # https://github.com/mabrasil/milla-theme
 #
@@ -32,7 +32,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#282a36</string>
 				<key>caret</key>
 				<string>#ecf0f1</string>
 				<key>foreground</key>
@@ -40,9 +40,9 @@
 				<key>invisibles</key>
 				<string>#95a5a6</string>
 				<key>lineHighlight</key>
-				<string>#16a07b</string>
+				<string>#44475a</string>
 				<key>selection</key>
-				<string>#16a07b</string>
+				<string>#44475a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,7 +147,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#2ecc71</string>
+				<string>#16a085</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,7 +160,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#2ecc71</string>
+				<string>#16a085</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,7 +173,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2ecc71</string>
+				<string>#27ae4c</string>
 			</dict>
 		</dict>
 		<dict>
