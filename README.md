@@ -13,7 +13,7 @@ text editors that uses a flat color palette.
 
 #### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
+You can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
 
 You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
@@ -33,6 +33,25 @@ $ git clone https://github.com/mabrasil/milla-theme.git "Milla Color Scheme"
 #### Activating the theme
 
 Go to `Preferences -> Color Scheme -> User` and select the `Milla Color Scheme`.
+
+### Atom
+
+#### Install using Git
+
+You can install the theme and keep up to date by cloning the repo directly into your `~/.atom/packages` directory.
+
+```sh
+$ git clone https://github.com/mabrasil/milla-theme.git ~/.atom/packages/milla-theme
+```
+
+#### Download Manually
+
+1. Download the files using the [GitHub .zip download](https://github.com/mabrasil/milla-theme/archive/master.zip) option and unzip them
+2. Move the `milla-theme` folder to `~/.atom/packages`
+
+#### Activating the theme
+
+Go to `Atom -> Preferences...`, select the `Themes` tab on the left side and choose `Milla` in the `Syntax Theme` dropdown menu.
 
 ### TextMate
 
