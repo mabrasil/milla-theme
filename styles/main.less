@@ -1,0 +1,151 @@
+/* Milla Theme v0.3.0
+ *
+ * https://github.com/mabrasil/milla-theme
+ *
+ * Copyright 2014, All rights reserved
+ *
+ * Code licensed under the MIT license
+ *
+ * @author Matheus Brasil <matheus.brasil10@gmail.com>
+ */
+ 
+@import "variables";
+
+.editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+}
+
+.editor .gutter {
+  background-color: @syntax-gutter-background-color;
+  color: @syntax-gutter-text-color;
+}
+
+.editor .gutter .line-number.cursor-line {
+  background-color: @syntax-gutter-background-color-selected;
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .gutter .line-number.cursor-line-no-selection {
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .wrap-guide {
+  color: @syntax-wrap-guide-color;
+}
+
+.editor .indent-guide {
+  color: @syntax-indent-guide-color;
+}
+
+.editor .invisible-character {
+  color: @syntax-invisible-character-color;
+}
+
+.editor .search-results .marker .region {
+  background-color: transparent;
+  border: @syntax-result-marker-color;
+}
+
+.editor .search-results .marker.current-result .region {
+  border: @syntax-result-marker-color-selected;
+}
+
+.editor.is-focused .cursor {
+  border-color: @syntax-cursor-color;
+}
+
+.editor.is-focused .selection .region {
+  background-color: @syntax-selection-color;
+}
+
+.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+  background-color: #44475a;
+}
+
+.comment {
+  color: #7280a3;
+}
+
+.string {
+  color: #f4d03f;
+}
+
+.constant.numeric {
+  color: #8e44ad;
+}
+
+.constant.language {
+  color: #9b59b6;
+}
+
+.constant.character, .constant.other {
+  color: #9b59b6;
+}
+
+.keyword {
+  color: #db0a5b;
+}
+
+.storage {
+  color: #db0a5b;
+}
+
+.storage.type {
+  font-style: italic;
+  color: #75b9e7;
+}
+
+.entity.name.class {
+  text-decoration: underline;
+  color: #16a085;
+}
+
+.entity.other.inherited-class {
+  font-style: italic;
+  text-decoration: underline;
+  color: #16a085;
+}
+
+.entity.name.function {
+  color: #27ae4c;
+}
+
+.variable.parameter {
+  font-style: italic;
+  color: #d35400;
+}
+
+.entity.name.tag {
+  color: #db0a5b;
+}
+
+.entity.other.attribute-name {
+  color: #87d37c;
+}
+
+.support.function {
+  color: #3498db;
+}
+
+.support.constant {
+  color: #3498db;
+}
+
+.support.type, .support.class {
+  font-style: italic;
+  color: #3498db;
+}
+
+.support.other.variable {
+}
+
+.invalid {
+  color: #F8F8F0;
+  background-color: #c0392b;
+}
+
+.invalid.deprecated {
+  color: #F8F8F0;
+  background-color: #96281b;
+}
