@@ -1,4 +1,7 @@
-#[Milla Theme](https://github.com/mabrasil/milla-theme)
+Milla Theme
+
+<img
+src="https://raw.githubusercontent.com/mabrasil/milla-theme/master/img/milla-logo.png" align="right">
 
 Milla is just a simple (and alternative) dark theme for for SublimeText, Textmate and other 
 text editors that uses a flat color palette.
