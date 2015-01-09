@@ -85,4 +85,5 @@ It is intended to maintain this project under the [Semantic Versioning] (http://
 ##TODOs
 
 - [ ] Add more scopes
-- [ ] Make it available for other editors (Atom, Vim, Xcode) and Terminal.
+- [ ] Add the existing versions to their text editors' respectives package managers.
+- [ ] Make it available for other editors (Brackets, Vim, Xcode) and Terminal.
