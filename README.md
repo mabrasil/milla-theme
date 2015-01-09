@@ -46,8 +46,9 @@ $ git clone https://github.com/mabrasil/milla-theme.git ~/.atom/packages/milla-t
 
 #### Download Manually
 
-1. Download the files using the [GitHub .zip download](https://github.com/mabrasil/milla-theme/archive/master.zip) option and unzip them
-2. Move the `milla-theme` folder to `~/.atom/packages`
+1. Download the files using the [GitHub .zip download](https://github.com/mabrasil/milla-theme/archive/master.zip) option
+2. Unzip the files and rename the folder to `milla-theme`
+3. Move the `milla-theme` folder to `~/.atom/packages`
 
 #### Activating the theme
 
