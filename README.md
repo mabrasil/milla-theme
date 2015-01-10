@@ -87,9 +87,10 @@ $ git submodule add git@github.com:mabrasil/milla-theme.git bundle/milla-theme
 2. Unzip the files and move the `vim/colors/milla.vim` file into `~/.vim/colors`
 3. Add the following lines into your vimrc file:
 
-    syntax on
-    color Milla
-
+```
+syntax on
+color Milla
+```
 
 ##License
 
