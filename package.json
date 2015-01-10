@@ -1,8 +1,8 @@
 {
   "name": "milla-theme",
   "theme": "syntax",
-  "version": "0.3.0",
-  "description": "A dark theme for for SublimeText, Textmate, Atom and other text editors that uses a flat color palette.",
+  "version": "0.4.0",
+  "description": "A dark and alternative theme that uses a flat color palette.",
   "repository": "https://github.com/mabrasil/milla-theme",
   "license": "MIT",
   "engines": {
