@@ -7,6 +7,17 @@ src="https://raw.githubusercontent.com/mabrasil/milla-theme/master/img/milla-log
 Milla is just a simple (and alternative) dark theme for SublimeText, Textmate and other 
 text editors that uses a flat color palette.
 
+## Table of contents
+
+* [Using](#using)
+  * [Sublime Text](#sublime-text)
+  * [Atom](#atom)
+  * [TextMate](#textmate)
+  * [Vim](#vim)
+* [License](#license)
+* [Versioning](#versioning)
+* [TODOs](#todos)
+
 ##Using
 
 ### Sublime Text 
@@ -104,6 +115,7 @@ It is intended to maintain this project under the [Semantic Versioning] (http://
 
 ##TODOs
 
-- [ ] Add more scopes
+- [ ] Add more scopes to existing themes
+- [ ] Add Screenshots to README.md
 - [ ] Add the existing versions to their text editors' respectives package managers.
 - [ ] Make it available for other editors (Brackets, Xcode etc.) and Terminal.
