@@ -122,8 +122,8 @@ Library Function         | `#3498db` | `#fff`
 Library Constant         | `#3498db` | `#fff` 
 Library Clas/Type        | `#3498db` | `#fff`
 Library Variable         | `#fff`    | `#fff` 
-Invalid                  | `#fff`    | `c0392b` 
-Invalid Deprecated       | `#fff`    | `96281b` 
+Invalid                  | `#fff`    | `#c0392b` 
+Invalid Deprecated       | `#fff`    | `#96281b` 
 
 ##License
 
