@@ -10,6 +10,7 @@ text editors that uses a flat color palette.
   * [Atom](#atom)
   * [TextMate](#textmate)
   * [Vim](#vim)
+* [Color Palette](#color-palette)
 * [License](#license)
 * [Versioning](#versioning)
 * [TODOs](#todos)
@@ -98,6 +99,31 @@ $ git submodule add git@github.com:mabrasil/milla-theme.git bundle/milla-theme
 syntax on
 color Milla
 ```
+## Color Palette
+
+Palette                  | Foregound | Background           
+---                      | ---       | ---   
+Background               | `#fff`    | `#282a36` 
+Foreground               | `#ecf0f1` | `#fff`
+Comment                  | `#7280a3` | `#fff` 
+String                   | `#f4d03f` | `#fff`
+Built-in Coonstant       | `#9b59b6` | `#fff` 
+User-defined Coonstant   | `#9b59b6` | `#fff`
+Keyword                  | `#db0a5b` | `#fff` 
+Storage                  | `#db0a5b` | `#fff`
+Storage Type             | `#75b9e7` | `#fff` 
+Class Name               | `#16a085` | `#fff` 
+Inherited Class          | `#16a085` | `#fff` 
+Function Name            | `#27ae4c` | `#fff`
+Function Argument        | `#d34a00` | `#fff`   
+Tag Name                 | `#db0a5b` | `#fff` 
+Tag Atribute             | `#87d37c` | `#fff` 
+Library Function         | `#3498db` | `#fff`
+Library Constant         | `#3498db` | `#fff` 
+Library Clas/Type        | `#3498db` | `#fff`
+Library Variable         | `#fff`    | `#fff` 
+Invalid                  | `#fff`    | `c0392b` 
+Invalid Deprecated       | `#fff`    | `96281b` 
 
 ##License
 
